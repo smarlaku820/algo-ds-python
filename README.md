@@ -25,17 +25,17 @@ Come up with a working solution.
 
 Figure how you can code it.
 
-## Step 5: Write Code
+## Step 5: Test your code with test cases
 
-## Step 6: Test your code with test cases
-
-## Step 7: Analyze the Space and Time Complexity of your solution
+## Step 6: Analyze the Space and Time Complexity of your solution
 
 When you are analyzing space and time complexity you are trying to identify the relative relationship of how much of the time and space resources your code will consume based on the size of your inputs.
 
-## Step 8: Can we Optimize our Solution ?
+## Step 7: Can we Optimize our Solution ?
 
 When you take a look at your complexities (time and space) and learn that one of the complexity is drastically different from the other, then
 there is a scope for optimization.
 
 Example:- If you are doing multiple iterations in your code, you must look out for the possibility for combining them.
+
+## Step 8: Write the code for optimized solution
